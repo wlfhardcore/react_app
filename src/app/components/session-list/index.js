@@ -15,7 +15,7 @@ export default function SessionList() {
 
     return (
         <div className={classes.filmContainer}>
-            <h2 className={classes.title}> Salon </h2>
+            <h2 className={classes.title}> Seans </h2>
             <SessionButton Text={"19:00"} onClick={handleClick} />
         </div>
     );

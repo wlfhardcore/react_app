@@ -14,6 +14,12 @@ const useStyles = createUseStyles({
         alignItems:'center',
     },
 
+    filmbuttonsdiv: {
+        display:'flex',
+        flexDirection:'column',
+        gap:'20px',
+    },
+
     title: {
         width:'85%',
         paddingInline:'50px',
